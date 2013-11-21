@@ -1,4 +1,30 @@
-chi-syn
+汉语同义词库（Chinese Synonym Library）
 =======
 
-Chinese Synonym Library
+###说明
+
++ 收集自成语词典、互联网、公众.<BR>
++ 5936组，24550个同义词.<BR>
++ 旨在学习和分享.
+
+###使用
++ 每组词以换行符 ( \r\n ) 分割<BR>
++ 单个词以制表符 ( \t ) 分割<BR>
++ 多义词以数字后缀区分，如:
+
+>&nbsp;&nbsp; 不合1	不同	分歧	差别	差异... <BR>
+>&nbsp;&nbsp; 不合2	不对	差池	差错	纰谬...
+
+###贡献
++ [报告新词或错误](https://github.com/g2384/chi-syn/issues/new)
+
+###作者
++ [想和作者玩(weibo)](http://www.weibo.com/hileony/)
+
+###更新
++ 2013.11<br>
+> 发布、公开词库
++ 2013.03<br>
+> 添加、筛检词库
++ 2012<br>
+> 收集、建立词库
