@@ -1,5 +1,6 @@
-汉语同义词库（Chinese Synonym Library）
+汉语同义词库
 =======
+###（Chinese Synonym Library）
 
 ###说明
 
@@ -16,10 +17,10 @@
 >&nbsp;&nbsp; 不合2	不对	差池	差错	纰谬...
 
 ###贡献
-+ [报告新词或错误](https://github.com/g2384/chi-syn/issues/new)
+[报告新词或错误](https://github.com/g2384/chi-syn/issues/new)
 
 ###作者
-+ [想和作者玩(weibo)](http://www.weibo.com/hileony/)
+[想和作者玩(weibo)](http://www.weibo.com/hileony/)
 
 ###更新
 + 2013.11<br>
