@@ -1,12 +1,12 @@
-汉语同义词库
-=======
-###（Chinese Synonym Library）
+[English version](#chinese-synonym-library)
+
+##汉语同义词库
 
 ###说明
 
 + 收集自成语词典、互联网、公众.<BR>
 + 广义同义，例如：乐不可支 = 兴奋 = 兴高采烈 = 喜上眉梢
-+ 5936组，24550个同义词.<BR>
++ 5940组，24550个同义词.<BR>
 + 旨在学习和分享.
 
 ###使用
@@ -18,6 +18,7 @@
 >&nbsp;&nbsp; 不合2	不对	差池	差错	纰谬...
 
 ###贡献
+谢谢 [@kissyid](https://github.com/kissyid) 的贡献
 [报告新词或错误](https://github.com/g2384/chi-syn/issues/new)
 
 ###作者
@@ -30,3 +31,11 @@
 > 添加、筛检词库
 + 2012<br>
 > 收集、建立词库
+
+##Chinese Synonym Library
+
+###Intro
++ Collected from the Internet, books and public.<BR>
++ Vague synonyms：乐不可支 = 兴奋 = 兴高采烈 = 喜上眉梢
++ 5940 sets，24550 words.<BR>
++ Learn and share.
