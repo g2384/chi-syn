@@ -18,7 +18,7 @@
 >&nbsp;&nbsp; 不合2	不对	差池	差错	纰谬...
 
 ###贡献
-谢谢 [@kissyid](https://github.com/kissyid) 的贡献
+谢谢 [@kissyid](https://github.com/kissyid) 的贡献<br>
 [报告新词或错误](https://github.com/g2384/chi-syn/issues/new)
 
 ###作者
@@ -36,6 +36,6 @@
 
 ###Intro
 + Collected from the Internet, books and public.<BR>
-+ Vague synonyms：乐不可支 = 兴奋 = 兴高采烈 = 喜上眉梢
-+ 5940 sets，24550 words.<BR>
++ Vague synonyms: 乐不可支 = 兴奋 = 兴高采烈 = 喜上眉梢
++ 5940 sets, 24550 words.<BR>
 + Learn and share.
