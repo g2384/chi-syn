@@ -6,7 +6,7 @@
 
 + 收集自成语词典、互联网、公众.<BR>
 + 广义同义，例如：乐不可支 = 兴奋 = 兴高采烈 = 喜上眉梢
-+ 5940组，24550个同义词.<BR>
++ 5945组，25400个同义词.<BR>
 + 旨在学习和分享.
 
 ###使用
@@ -18,7 +18,7 @@
 >&nbsp;&nbsp; 不合2	不对	差池	差错	纰谬...
 
 ###贡献
-谢谢 [@kissyid](https://github.com/kissyid) 的贡献<br>
+谢谢 [@kissyid](https://github.com/kissyid), [@bkbncn](https://github.com/bkbncn)的贡献<br>
 [报告新词或错误](https://github.com/g2384/chi-syn/issues/new)
 
 ###作者
@@ -26,7 +26,7 @@
 
 ###更新
 + 2013.11<br>
-> 发布、公开词库
+> 发布、公开词库(5945组，25400个同义词)
 + 2013.03<br>
 > 添加、筛检词库
 + 2012<br>
@@ -35,7 +35,7 @@
 ##Chinese Synonym Library
 
 ###Intro
-+ Collected from the Internet, books and public.<BR>
++ Collected from the Internet, dictionaries and public.<BR>
 + Vague synonyms: 乐不可支 = 兴奋 = 兴高采烈 = 喜上眉梢
 + 5940 sets, 24550 words.<BR>
 + Learn and share.
