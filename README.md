@@ -1,4 +1,4 @@
-[English discription](#chinese-synonym-library)
+[English description](#chinese-synonym-library)
 
 ##汉语同义词库
 
