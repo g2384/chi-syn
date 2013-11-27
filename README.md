@@ -18,7 +18,8 @@
 >&nbsp;&nbsp; 不合2	不对	差池	差错	纰谬...
 
 ###贡献
-谢谢 [@kissyid](https://github.com/kissyid), [@bkbncn](https://github.com/bkbncn)的贡献<br>
+感谢 [@kissyid](https://github.com/kissyid), [@bkbncn](https://github.com/bkbncn)的贡献<br>
+感谢 [@QuChao](https://github.com/QuChao)的支持<br>
 [报告新词或错误](https://github.com/g2384/chi-syn/issues/new)
 
 ###作者
